@@ -1,0 +1,30 @@
+* 5 sem
+** Pre-exams
+*** Cheb
+
+**** TODO Лаба 1
+SCHEDULED: <2023-12-29 Fri>
+**** TODO Лаба 2
+SCHEDULED: <2023-12-29 Fri>
+**** TODO ИКР
+SCHEDULED: <2024-01-02 Tue>
+
+*** Zub
+**** DONE table
+
+maybe some other shit idk. Should be free
+** Exams
+
+*** TODO OM
+SCHEDULED: <2024-01-04 Thu>
+
+*** TODO FA
+SCHEDULED: <2024-01-11 Thu>
+[[*Cheb][
+Cheb]]
+
+*** TODO ZUB
+SCHEDULED: <2024-01-16 Tue>
+
+*** TODO CM
+SCHEDULED: <2024-01-20 Sat>

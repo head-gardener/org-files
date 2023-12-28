@@ -1,0 +1,11 @@
+* Lisp/Racket
+
+Simple syntax
+
+** TODO figure out elisp syntax
+
+** TODO Configure vim/lisp for racket
+
+*** TODO What are all those binaries?
+
+** TODO Figure out rash

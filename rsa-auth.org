@@ -1,0 +1,9 @@
+* RSA auth
+
+** Front end
+
+should integrate with either gpg or ssh to pull keys.
+
+** Backend
+
+*** TODO signature or enctyprion
