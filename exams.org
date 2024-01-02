@@ -3,11 +3,11 @@
 *** Cheb
 
 **** TODO Лаба 1
-SCHEDULED: <2023-12-29 Fri>
+SCHEDULED: <2024-01-05 Fri>
 **** TODO Лаба 2
-SCHEDULED: <2023-12-29 Fri>
+SCHEDULED: <2024-01-05 Fri>
 **** TODO ИКР
-SCHEDULED: <2024-01-02 Tue>
+SCHEDULED: <2024-01-05 Fri>
 
 *** Zub
 **** DONE table
