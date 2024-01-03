@@ -1,0 +1,22 @@
+* Deploy and shee
+** Remove references to external files
+*** TODO find a better way to store ssh keys
+prob best to store separate pub_keys.nix and swap it as needed.
+throw some code generating lisp stuff on top and it's golden.
+** Clear separation of services
+[[https://nixos.wiki/wiki/NixOS_modules][on modules]]
+- nix-serve
+- hydra
+- prometheus
+** Damn flakes
+[[https://www.tweag.io/blog/2020-05-25-flakes/][Dolstra's post]]
+Usefull with managing dependencies like reguralry updated git repos.
+*** TODO Separate nix-serve and all realted mush
+Maybe these services should reside in separate files as functions operating on config objects.
+** Prometheus
+Agregate metrics just for fun i guess. for example hydra's shit, if at all possible.
+You could even agregate shit like atop-s metrics. Very cool!
+* Read up
+** Yusup
+[[https://github.com/name-snrl/nixos-configuration][config]]
+[[https://discourse.nixos.org/t/what-is-the-right-way-to-add-optional-pkgs-to-nixos-binary-cache/37547][swayfx issue]]

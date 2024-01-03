@@ -3,9 +3,7 @@ SCHEDULED: <2023-12-29 Fri>
 
 Skimask, markers and stick notes.
 
-* DONE Sister's packages
-SCHEDULED: <2023-12-29 Fri>
-@kd_drk
+* TODO Sister's packages
+SCHEDULED: <2024-01-04 Thu>
+Give shit to oleg.
 
-* Happy New Year!
-SCHEDULED: <2023-12-31 Sun>

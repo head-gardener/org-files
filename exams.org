@@ -9,19 +9,15 @@ SCHEDULED: <2024-01-05 Fri>
 **** TODO ИКР
 SCHEDULED: <2024-01-05 Fri>
 
-*** Zub
-**** DONE table
-
-maybe some other shit idk. Should be free
 ** Exams
 
 *** TODO OM
-SCHEDULED: <2024-01-04 Thu>
+SCHEDULED: <2024-01-05 Fri>
+[[https://drive.google.com/drive/folders/12HSuKUaPRu7_6mxGGL7nyCbpgeqbJgyP][notes]]
 
 *** TODO FA
 SCHEDULED: <2024-01-11 Thu>
-[[*Cheb][
-Cheb]]
+[[https://edufpmi.bsu.by/course/view.php?id=668][web-resource]]
 
 *** TODO ZUB
 SCHEDULED: <2024-01-16 Tue>

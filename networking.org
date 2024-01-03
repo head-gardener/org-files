@@ -1,0 +1,18 @@
+* Configuring the network
+My net setup sucks, primarely because i know shit all about network
+equipment and protocols. At least openwrt interface wakes it easier to
+fiddle with. I probably should ssh into it and look into logs, atops,
+netstats and such to figure out how really does it all work.
+
+** IPv6
+My main pc doesn't get an IPv6 address, at least I don't think it
+does. Is there something I can do about it? Or should?
+[[http://www.willghatch.net/blog/2016/07/27/ipv6-setup/][W. G. Hatch's post]]
+
+** Firewall
+Somehow I'm completely oblivious to how the firewall works. Should
+probably figure it out.
+
+** Nix-box as a router
+Once I understand all the stuff, I could switch to everything being
+handled by a Nix-ed ThinkPad. [[http://www.willghatch.net/blog/2020/06/22/nixos-raspberry-pi-4-google-fiber-router/?utm_source=all&utm_medium=RSS][Another post]]. This ties back into [[file:deploy.org::*Deploy andshee][reorganizing my configs]].
