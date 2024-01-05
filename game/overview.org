@@ -1,0 +1,147 @@
+* Main idea
+No matter where you go, everyone is connected. The net is a society
+above any borders, subconcious above any group and a complete ego
+death.
+
+Isolation and the death of individuality, the digital faceless. In an
+interconnected society no single individual matters, with shallow
+communications breeding loneliness. A person is stuck being a drop in
+the ocean of thought, as a digital faceless - entity without
+recognizeable traits or responsibilities, completely
+replaceable. Everyone really is (not) alone.
+
+The net, from a cybernetic point of view, gives birth to a higher
+entity, one above all.
+
+* Hackery
+
+** Preface
+Being the whole point of the experience, this one should be crafted
+with utmost care. The mechanic should be implemented both ways -
+player being both on the aggressive and defensive sides, former being
+more frequent. Defence may help outline some events, break up the loop
+and bring more depth to the system of configuring your
+environmemnt. Just like in real life! I'm inspired by the defence
+barrier idea from GitH - with infiltration being represented as
+interaction between attacking forces and defensive barriers, where the
+former gradually, layer by layer destroy the later. Eve actually had
+something simillar.
+
+** Mechanics
+Keywords: layers, defensive barrier.
+General idea is a gradual struggle between a set of nodes and some
+force, capable of taking control of the layers. Both defensive and
+attacking capabilites depend on the exact setups. E.g. more CPU's will
+allow for faster decription, higher bandwidth will help with DOS and
+bruteforce.
+
+From this we can derive the general idea - sides are capable of
+performing specific actions, dependant on the situation and affected
+by configurations. Better software and hardware can allow for more
+powerfull actions.
+
+Other possible thing to include could be a detection mechanic. On the
+attacking side it could be implemented as a set of triggers, that
+would trigger detection on timeout, requiring some action like node
+takeover in order to avoid full defence activation. On the defensive
+side it could be seen as triggering the defense mechanic on some
+non-initial infiltration stage - as in starting with some of your
+layers already down.
+
+* Setups
+
+** Preface
+A fun experience in my eyes entails the ability for fiddling with
+setups and building your strategies accordingly. Two branches of this
+system may be introduced - sofware and hardware.
+
+** Software
+Obtainable through player's online actions and such. A fun idea could
+be to raid a well-protected server for updated or in-house software
+with rare effects. Generally, sowtare shall have hardware
+requirements, resource usage, provided abilities and effects on them,
+and probably software dependencies. Later versions can have better
+abilities and more positive buffs.
+
+Take virtualisation into account.
+
+** Hardware
+Better hardware provides better stats, essentially. Some system should
+exist to make all components inter-dependable and in other ways
+interacting with each other and software. This systems should be
+fairly general. One idea might be sowtare on hardware dependencies,
+locking some software behind weaker or stronger hardware.
+
+Actually there are plenty off ideas in the real world that would be
+pretty fun in a game. Consider stuff like GPU-accelerated
+computations, beefy switches, ACU and so on. Hunting and configuring
+this stuff might seem pretty cool.
+
+Other side of the idea is player's ability to run multiple machines,
+each with a separate loadout.
+
+Acquisition of harware components might be done through missions -
+i.e. action requests by NPCs. Bounties, for example - or tokens, that
+can be stolen from the net and realised for currency.
+
+* OS
+
+** Preface
+Should be sufficiently flexible, i.e. allow simple and versatile
+configuration, free from the confinments of old-school bare-metal
+setups. Nix being the main inspiration. Pick and choose configurable
+modules, building a complete environment, capable of being
+virtualised - for sandboxing, of course.
+
+UI should be intuitive yet flexible. I think node-view can be really
+good for such tasks, providinging quick-glance overview, clear
+relations and mouse-centric file system manipulation. Standart
+shell-centric interface, while being quite good in real world, seems
+incredibly clumsy in this simple environment.
+
+In regards to virtualisation - this seems like a failry simple thing
+to implement, but exact implications will be more obvious down the
+line.
+
+** File manipulation
+Node view should represent available system modules and allow for
+their configuration.
+
+Control components should be available - e.g. in
+the node view we can have a root of the name "objs-git", which
+superseeds children files. This would represent a vcs in the real
+world. Then control node will have a UI elemnt, that, when interacted
+with, can provide commit log, controls over creating, checking out
+commits and such.
+
+** Other functionality
+It makes sence to include some more technical stuff, that essentially
+represents some common game mechanics. A git server, for exapmle, or
+mail or something.
+
+* Plot
+
+Revolves around player investigating notable events on the net for pay
+from contractors or his hacker team. This can be summed up as player
+discovering about an event, going of to investigate it by hacking into
+places and comming to conclusion on what actually happened and who is
+responcible.
+
+** Data corruption
+One fun plot to follow is about a hack, that never actually happened -
+some corruption, incorrect automation or something else altered logs,
+files, etc. in such a way, that local administrators considered it a
+hack attempt without realising that no such thing ever happened.
+
+** Stand alone complex
+A series of attacks, performed as a result of a malfunction and
+misconfiguration - minor neglenence and malice combined into a
+large-scale event, behind which stands exactly no one, apart of a
+self-genrated botnet.
+
+** Knights
+A group of kids having fun and looking to break something taking it
+way futher than necessary.
+
+** Government
+Of cource NSA is involved, who would I be otherwise!

@@ -6,4 +6,3 @@ Skimask, markers and stick notes.
 * TODO Sister's packages
 SCHEDULED: <2024-01-04 Thu>
 Give shit to oleg.
-

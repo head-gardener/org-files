@@ -1,0 +1,4 @@
+* Configurations
+- package options
+- tests, coverage
+- 

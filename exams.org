@@ -3,11 +3,11 @@
 *** Cheb
 
 **** TODO Лаба 1
-SCHEDULED: <2024-01-05 Fri>
+SCHEDULED: <2024-01-10 Wed>
 **** TODO Лаба 2
-SCHEDULED: <2024-01-05 Fri>
+SCHEDULED: <2024-01-10 Wed>
 **** TODO ИКР
-SCHEDULED: <2024-01-05 Fri>
+SCHEDULED: <2024-01-10 Wed>
 
 ** Exams
 
