@@ -1,0 +1,3 @@
+* FRP blog post
+[[https://www.antonycourtney.com/pubs/hw03.pdf][YAMPA LSP paper]]
+[[https://reasonablypolymorphic.com/blog/yampa-frp/index.html][Reasonably Polymorphic posts]]
